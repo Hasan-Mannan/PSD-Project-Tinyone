@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+}
+/*==============================================*/
+            /* HEADER & NAVBAR SECTION */
+/*==============================================*/
+header {
+    padding-top: 40px;
+    padding-bottom: 15px;
+    background-color: #fcdb00;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.nav-link {
+    font-size: 22px;
+    color: #010101;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+    margin-left: 60px;
+}
+.container {
+    max-width: 960px !important;
+}
+.carousel-left h3 {
+    font-weight: 700;
+    font-family: 'PT Sans', sans-serif;
+}
+.carousel-left h6 {
+    color: #313841;
+    font-size: 20px;
+    margin-right: 160px;
+    font-family: 'PT Sans', sans-serif;
+}
+.carousel-left p {
+    color: #555555;
+    font-size: 16px;
+    margin-right: 113px;
+    font-family: 'PT Sans', sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+.img-fluid {
+    padding-bottom: 40px;
+}
+.carousel-left li {
+    font-size: 35px;
+    padding-right: 20px;
+    font-family: 'PT Sans', sans-serif;
+}
+.carousel-indicators [data-bs-target] {
+    width:15px;
+    height:15px;
+    border-radius: 50%;
+}
+/*==============================================*/
+            /* FEATURES SECTION */
+/*==============================================*/
+.tinyone-features {
+    padding: 100px 0;
+}
+.features-head h3 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #010101;
+    font-family: 'PT Sans', sans-serif;
+}
+.features-head p {
+    font-size: 20px;
+    font-style: normal;
+    color: #313841;
+    padding: 15px 100px;
+    font-family: 'PT Sans', sans-serif;
+}
+.features-icon img {
+    position: absolute;
+    padding-top: 5px;
+}
+.features-icon .features-text {
+    position: relative;
+    margin-left: 70px;
+    padding-bottom: 70px;
+}
+.features-text h4 {
+    font-size: 22px;
+    font-style: normal;
+    color: #010101;
+    font-family: 'PT Sans', sans-serif;
+}
+.features-text p {
+    font-size: 16px;
+    font-style: normal;
+    color: #898989;
+    font-family: 'PT Sans', sans-serif;
+}
+/*==============================================*/
+              /* SUPPORT SECTION */
+/*==============================================*/
+.support {
+    background-color: #010101;
+    padding: 60px 0;
+}
+.support-head h3 {
+    color: #fcdb00;
+    font-size: 32px;
+    font-weight: bold;
+}
+.support-head p {
+    color: #717171;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0 100px;
+    padding-bottom: 20px;
+}
+.form-control {
+    width: 605px;
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-style: normal;
+    font-family: 'PT Sans', sans-serif;
+}
+.btn {
+    width: 113px;
+    height: 40px;
+    background-color: #fcdb00;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+}
+.social-icon i {
+    color: #fcdb00;
+    padding: 60px 10px;
+    font-size: 38px;
+}
+/*==============================================*/
+              /* FOOTER SECTION */
+/*==============================================*/
+footer {
+    background-color: #010101;
+    padding-bottom: 80px;
+}
+footer ul {
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'PT Sans', sans-serif;
+}
